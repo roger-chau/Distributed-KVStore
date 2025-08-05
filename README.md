@@ -31,9 +31,9 @@ Check back regularly for new articles and deep dives!
 - [ ] Handle log compaction to reclaim storage space.  
 - [ ] Write comprehensive unit tests to ensure correctness, maintainability, and ease of refactoring.
 
----
+## Previous Milestones ✅
 
-# Previous Milestones ✅
+---
 
 # Getting Started 🚀
 
