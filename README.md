@@ -12,6 +12,14 @@ A hands-on C++ project to build a scalable, distributed key-value store from the
 - Write clean, modular C++ code with testing and documentation.  
 - Learn and apply core concepts of storage systems and distributed computing through practical implementation.
 
+## Learning Journal 📚
+
+As I build this project, I document key concepts, challenges, and insights on my Medium blog:
+
+- TBD
+
+Check back regularly for new articles and deep dives!
+
 ---
 
 # Current Milestones 🛠️ 
@@ -26,5 +34,7 @@ A hands-on C++ project to build a scalable, distributed key-value store from the
 ---
 
 # Previous Milestones ✅
+
+# Getting Started 🚀
 
 <!-- Add completed milestones here -->
